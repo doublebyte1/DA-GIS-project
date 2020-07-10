@@ -33,7 +33,7 @@ https://github.com/doublebyte1/bts_geospatial/blob/master/INSTALL_QGIS.md
 
 And to register for Twitter developer API keys:
 
-LINK
+https://github.com/doublebyte1/DA-GIS-project/blob/master/dev_twitter.md
 
 ## Visualize geo-located Tweets, filtered by keyword
 
